@@ -33,10 +33,12 @@ Welcome in Development Log!<br>Here I share my thoughts, updates, technical deci
 </div>
 
 <div align="center">
+
 ### 🚀 Version 0.2 – [13.5.2025]
 </div>
-- 🆕 **What's new:** The main project has been created and the final push to the repository has been made!  
-- 📝 **Note:** It doesn't contain much yet, but that's yet to come!<br>Meanwhile I've drawn a tiny sketch of how I envision my project being realized, so here it is!
+
+- 🆕 **What's new:** Added UI, Input for User's action and main program loop with calculator module that you can travel between and go back into the main menu or quit program!
+- 📝 **Note:** I'm sharing with you a small gif of how the app works in the terminal. It looks interactive, what do you think? Calculator and its functionality will be next, stay tuned!
 
 <div align="center">
 
