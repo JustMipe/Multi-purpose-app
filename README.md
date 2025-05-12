@@ -15,7 +15,7 @@ Welcome in Development Log!<br>Here I share my thoughts, updates, technical deci
 ## 🔍 Project goal
 - [**Origin**] – The project is used to publish my knowledge.
 - [**Vision**] – The program will gets several functionalities and improvements to make it suitable for use.
-- [**Future**] – I will continue to update and improve this project as my skills and knowledge are learned. I want to achieve clean code that is more robust, bug-proof and secure. This project will grow with me.
+- [**Future**] – I will continue to update and improve this project as my skills and knowledge are learned.<br>I want to achieve clean code that is more robust, bug-proof and secure. This project will grow with me.
 
 ---
 
