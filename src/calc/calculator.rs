@@ -10,7 +10,10 @@ pub fn calculator() {
         std::io::stdin().read_line(&mut input).unwrap();
 
         match input.trim() {
-            "1" => break,
+            "1" => {
+                clear();
+                break;
+            }
             _ => break,
         }
     }
