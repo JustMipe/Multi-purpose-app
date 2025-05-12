@@ -30,13 +30,13 @@ Welcome in Development Log!<br>Here I share my thoughts, updates, technical deci
 
 <div align="center">
 <img src="https://github.com/JustMipe/Multi-purpose-app/blob/main/src/assets/project_structure.png" height="auto" width="450">
-
+</div>
 
 ### 🛠️ Work in Progress – [Current state]
-🔄 **Functions in progress:** Calculator
-📌 **Scheduled changes:** -
-⚠️ **Challenges:** -
-</div>
+- 🔄 **Functions in progress:** Calculator
+- 📌 **Scheduled changes:** -
+- ⚠️ **Challenges:** -
+
 ---
 
 ## 🚀 Plans for the future
