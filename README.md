@@ -54,14 +54,15 @@ Welcome in Development Log!<br>Here I share my thoughts, updates, technical deci
 
 ---
 
-## 🚀 Plans for the future
+## Plans for the future
 - [**Features**] – Task Manager (TODO List), Calculator, Password Generator, Timer/Stopwatch, Text Encryption Tool, Currency Converter, Guess the Number Game, Contact Manager and more.
 - [**Optimization**] – Code and Logic optimization, Refactoring, tests and benchmark.
 - [**Accounts**] – Registering and creating own account with the SQL database.
+- [**GUI**] – In the future I definitely want to rewrite the whole code for graphic user interface via framework like Tauri, Iced or Druid.
 
 ---
 
-## 📢 Contact
+## Contact
 <a href="https://discord.com/users/2023mipe" target="_blank">
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
