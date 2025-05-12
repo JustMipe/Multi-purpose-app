@@ -38,7 +38,7 @@ Welcome in Development Log!<br>Here I share my thoughts, updates, technical deci
 </div>
 
 - 🆕 **What's new:** Added UI, Input for User's action and main program loop with calculator module that you can travel between and go back into the main menu or quit program!
-- 📝 **Note:** I'm sharing with you a small gif of how the app works in the terminal. It looks interactive, what do you think? Calculator and its functionality will be next, stay tuned!
+- 📝 **Note:** I'm sharing with you a small gif of how the app works in the terminal.<br>It looks interactive, what do you think? Calculator and its functionality will be next, stay tuned!
 
 <div align="center">
 
