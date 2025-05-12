@@ -7,7 +7,6 @@ fn main() {
 
     // Main loop
     loop {
-        clear();
         main_menu();  // Show main menu
         let choice = input();  // Receiving input from user
  
@@ -22,7 +21,10 @@ fn main() {
                 break;
             }  
             // non-existent choice
-            _ => println!("ERROR: Wrong action!"),
+            _ => {
+                clear();
+                println!("ERROR: Wrong action!");
+            }
         }
     }
 }
