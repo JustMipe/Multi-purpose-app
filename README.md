@@ -1,13 +1,13 @@
 # 🛠️ Development Log – [Multi-purpose app]
 
-Welcome in Development Log! Here I share my thoughts, updates, technical decisions and notes from the development process.
+Welcome in Development Log! <br> Here I share my thoughts, updates, technical decisions and notes from the development process.
 
 ---
 
 ## 📌 Overview
 **Title:** Multi-purpose app  
-**Description:** The program contains several features, for example todo, calculator, etc. .
-**Technology:** Rust
+**Description:** The program contains several features, for example todo, calculator, etc <br>
+**Technology:** Rust <br>
 **Repository:** [\[Link to repository\]](https://github.com/JustMipe/Multi-purpose-app)
 
 ---
@@ -54,7 +54,6 @@ Welcome in Development Log! Here I share my thoughts, updates, technical decisio
 ---
 
 ## 📢 Contact
-Máte zpětnou vazbu nebo návrhy? Spojte se se mnou:
 <a href="https://discord.com/users/2023mipe" target="_blank">
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
