@@ -1,55 +1,40 @@
-# 🛠️ Development Log – [Multi-purpose app]
+# 🛠️ Development Log – Multi-purpose app
 
-Welcome in Development Log! <br> Here I share my thoughts, updates, technical decisions and notes from the development process.
+Welcome in Development Log!<br>Here I share my thoughts, updates, technical decisions and notes from the development process.
 
 ---
 
 ## 📌 Overview
 **Title:** Multi-purpose app  
-**Description:** The program contains several features, for example todo, calculator, etc <br>
+**Description:** The program contains several features, for example todo, calculator, etc...<br>
 **Technology:** Rust <br>
 **Repository:** [\[Link to repository\]](https://github.com/JustMipe/Multi-purpose-app)
 
 ---
 
 ## 🔍 Project goal
-- [Cíl 1] – Stručný popis hlavního cíle projektu.
-- [Cíl 2] – Další plánované funkcionality nebo vize.
-- [Cíl 3] – Potenciální vylepšení do budoucna.
+- [Origin] – The project is used to publish my knowledge.
+- [Vision] – The program will gets several functionalities and improvements to make it suitable for use.
+- [Future] – I will continue to update and improve this project as my skills and knowledge are learned. I want to achieve clean code that is more robust, bug-proof and secure. This project will grow with me.
 
 ---
 
 ## 📅 Development history & Updates
 ### 🚀 Version 1.0 – [12.5.2025]
-- 🆕 **Hlavní funkce:** Přehled klíčových funkcí.
-- 🛠️ **Opravy:** Popis vyřešených problémů.
-- 📝 **Poznámky:** Co se povedlo, co se změnilo.
+- 🆕 **What's new:** The main project was created!
+- 📝 **Note:** It doesn't contain much yet, but that's yet to come!
 
 ### 🛠️ Work in Progress – [Current state]
-- 🔄 **Probíhající práce:** Funkce, na kterých se pracuje.
-- 📌 **Plánované změny:** Nové nápady nebo refaktoring.
-- ⚠️ **Výzvy:** Problémy, které řeším nebo budu řešit.
-
----
-
-## 📖 Technical notes & documentation
-- **Architektura:** Jak je projekt strukturován.
-- **Použité technologie:** Přehled knihoven a závislostí.
-- **Optimalizace:** Výkonnostní úpravy a refaktoring.
+- 🔄 **Functions in progress:** Calculator
+- 📌 **Scheduled changes:** -
+- ⚠️ **Challenges:** -
 
 ---
 
 ## 🚀 Plans for the future
-- [Idea 1] – Možné rozšíření projektu.
-- [Idea 2] – Optimalizace nebo nové funkce.
-- [Idea 3] – Potenciální integrace s jinými službami.
-
----
-
-## 🎯 Personal notes & reflective thoughts
-- **Největší výzva:** Co mi přišlo jako nejkomplikovanější.
-- **Nejzajímavější část vývoje:** Co mě nejvíce bavilo.
-- **Lekce & zkušenosti:** Co jsem se při tom naučil.
+- [Features] – Task Manager (TODO List), Calculator, Password Generator, Timer/Stopwatch, Text Encryption Tool, Currency Converter, Guess the Number Game, Contact Manager and more.
+- [Optimization] – Code and Logic optimization, Refactoring, tests and benchmark.
+- [Accounts] – Registering and creating own account with the SQL database.
 
 ---
 
