@@ -25,6 +25,8 @@ Welcome in Development Log!<br>Here I share my thoughts, updates, technical deci
 - 📝 **Note:** It doesn't contain much yet, but that's yet to come! Meanwhile I've drawn a tiny sketch of how I envision my project being realized, so here it is!
 
 ![Screenshot](https://github.com/JustMipe/Multi-purpose-app/blob/main/src/assets/project_structure.png)
+<img src="https://github.com/JustMipe/Multi-purpose-app/blob/main/src/assets/project_structure.png" width="500">
+
 
 ### 🛠️ Work in Progress – [Current state]
 - 🔄 **Functions in progress:** Calculator
