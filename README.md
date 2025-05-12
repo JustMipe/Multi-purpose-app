@@ -19,18 +19,37 @@ Welcome in Development Log!<br>Here I share my thoughts, updates, technical deci
 
 ---
 
-<div align="center">
+<center>
 
-## 📅 Development history & Updates
-### 🚀 Version 1.0 – [12.5.2025]
-</div>
+## 📅 Development History & Updates  
+### 🚀 Version 0.1 – [12.5.2025]  
+
+</center>
 
 - 🆕 **What's new:** The main project has been created and the final push to the repository has been made!  
-- 📝 **Note:** It doesn't contain much yet, but that's yet to come!<br>Meanwhile I've drawn a tiny sketch of how I envision my project being realized, so here it is!
+- 📝 **Note:** It doesn't contain much yet, but that's yet to come!  
+  Meanwhile I've drawn a tiny sketch of how I envision my project being realized, so here it is:
 
-<div align="center">
+<center>
 <img src="https://github.com/JustMipe/Multi-purpose-app/blob/main/src/assets/project_structure.png" height="auto" width="450">
-</div>
+</center>
+
+---
+
+### 🚀 Version 0.2 – [13.5.2025]
+
+- 🆕 **What's new:** Added foundational code structure and improved repository documentation.  
+- 📝 **Note:** Work in progress! More features will be coming soon.  
+  Here's a sneak peek of the current development:
+
+<center>
+<img src="https://github.com/JustMipe/Multi-purpose-app/blob/main/src/assets/001.gif" width="450">
+</center>
+
+
+
+
+![Demo](https://github.com/JustMipe/Multi-purpose-app/blob/main/src/assets/001.gif)
 
 ### 🛠️ Work in Progress – [Current state]
 - 🔄 **Functions in progress:** Calculator
