@@ -26,8 +26,8 @@ Welcome in Development Log!<br>Here I share my thoughts, updates, technical deci
 
 <div style="text-align: left;">
 
-- 🆕 **What's new:** The main project has been created and the final push to the repository has been made!  
-- 📝 **Note:** It doesn't contain much yet, but that's yet to come! Meanwhile I've drawn a tiny sketch of how I envision my project being realized, so here it is!
+🆕 **What's new:** The main project has been created and the final push to the repository has been made!  
+📝 **Note:** It doesn't contain much yet, but that's yet to come!<br> Meanwhile I've drawn a tiny sketch of how I envision my project being realized, so here it is!
 
 </div>
 
