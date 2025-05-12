@@ -13,16 +13,18 @@ Welcome in Development Log!<br>Here I share my thoughts, updates, technical deci
 ---
 
 ## 🔍 Project goal
-- [Origin] – The project is used to publish my knowledge.
-- [Vision] – The program will gets several functionalities and improvements to make it suitable for use.
-- [Future] – I will continue to update and improve this project as my skills and knowledge are learned. I want to achieve clean code that is more robust, bug-proof and secure. This project will grow with me.
+- [**Origin**] – The project is used to publish my knowledge.
+- [**Vision**] – The program will gets several functionalities and improvements to make it suitable for use.
+- [**Future**] – I will continue to update and improve this project as my skills and knowledge are learned. I want to achieve clean code that is more robust, bug-proof and secure. This project will grow with me.
 
 ---
 
 ## 📅 Development history & Updates
 ### 🚀 Version 1.0 – [12.5.2025]
 - 🆕 **What's new:** The main project was created!
-- 📝 **Note:** It doesn't contain much yet, but that's yet to come!
+- 📝 **Note:** It doesn't contain much yet, but that's yet to come! Meanwhile I've drawn a tiny sketch of how I envision my project being realized, so here it is!
+
+![Screenshot](https://github.com/JustMipe/Multi-purpose-app/blob/main/src/assets/project_structure.png)
 
 ### 🛠️ Work in Progress – [Current state]
 - 🔄 **Functions in progress:** Calculator
@@ -32,9 +34,9 @@ Welcome in Development Log!<br>Here I share my thoughts, updates, technical deci
 ---
 
 ## 🚀 Plans for the future
-- [Features] – Task Manager (TODO List), Calculator, Password Generator, Timer/Stopwatch, Text Encryption Tool, Currency Converter, Guess the Number Game, Contact Manager and more.
-- [Optimization] – Code and Logic optimization, Refactoring, tests and benchmark.
-- [Accounts] – Registering and creating own account with the SQL database.
+- [**Features**] – Task Manager (TODO List), Calculator, Password Generator, Timer/Stopwatch, Text Encryption Tool, Currency Converter, Guess the Number Game, Contact Manager and more.
+- [**Optimization**] – Code and Logic optimization, Refactoring, tests and benchmark.
+- [**Accounts**] – Registering and creating own account with the SQL database.
 
 ---
 
