@@ -33,9 +33,9 @@ Welcome in Development Log!<br>Here I share my thoughts, updates, technical deci
 
 
 ### 🛠️ Work in Progress – [Current state]
-- 🔄 **Functions in progress:** Calculator
-- 📌 **Scheduled changes:** -
-- ⚠️ **Challenges:** -
+🔄 **Functions in progress:** Calculator
+📌 **Scheduled changes:** -
+⚠️ **Challenges:** -
 </div>
 ---
 
